@@ -1,4 +1,4 @@
-![Simplified Blockchain](https://github.com/denismurphy/resume/blob/main/resume.svg?raw=true&version=1)
+![Résumé](https://github.com/denismurphy/resume/blob/main/resume.svg?raw=true&version=1)
 
 # Résumé
 
